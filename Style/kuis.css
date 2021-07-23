@@ -21,6 +21,12 @@ body {
   transform: translate(-50%, -50%) scale(1);
 }
 
+.info_box,
+.quiz_box{
+ overflow-y: scroll;
+ overflow-x: scroll;
+}
+
 .start_btn,
 .info_box,
 .quiz_box,
