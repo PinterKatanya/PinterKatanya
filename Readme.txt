@@ -1,3 +1,0 @@
--Upload to github.
--Ubah Domain menjadi pinterkatanya.com.
--papanPeringkat.css pindahin ke folder style.
